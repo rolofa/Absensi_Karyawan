@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nik\ nama\ alamat\ gaji_pokok
+comment0.target=karyawan(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=nama
+comment1.target=void\ setNama(java.lang.String)
+comment2.params=
+comment2.target=void\ dataDiri()
+comment3.params=jamM\ menitM\ detikM
+comment3.target=void\ jammasuk(int,\ int,\ int)
+comment4.params=jamK\ menitK\ detikK
+comment4.target=void\ jamkeluar(int,\ int,\ int)
+numComments=5
